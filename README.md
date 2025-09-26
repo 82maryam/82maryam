@@ -36,7 +36,7 @@ I enjoy solving complex problems and continuously learning new tools and technol
   <a href="https://x.com/MasoomiMar50627">
     <img src="https://img.shields.io/badge/X-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="X / Twitter" />
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="maryam345masoomi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </p>
